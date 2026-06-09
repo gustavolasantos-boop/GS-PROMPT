@@ -162,8 +162,7 @@ Priorização automática de downlink.
 
 ## Limitações conhecidas
 
-* Utiliza telemetria simulada.
-* Não possui integração com satélites reais.
+* Utiliza telemetria simulada..
 * Não armazena histórico persistente das análises.
 * Dependente da disponibilidade da API Ollama Cloud.
 * Não executa comandos reais sobre sistemas espaciais.
